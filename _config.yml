@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        /:title/
+
+# Setup
+title:            Folklore
+tagline:          'A 2.0 update of Folklore.org'
+description:      '<a href="http://folklore.org">Folklore</a> is an awesome collection of stories about Apple and the technology culture of the 80s and 90s. This site is a revamp of those stories, created by <a href="http://twitter.com/imkmf">Kristian Freeman</a>.'
+url:              http://folklore.kristianfreeman.com
+baseurl:          /
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/imkmf/folklore

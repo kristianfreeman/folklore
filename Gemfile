@@ -1,6 +1,8 @@
 source "https://rubygems.org"
 gem "awesome_print"
+gem "activesupport"
 gem "jekyll"
 gem "json"
 gem "nokogiri"
 gem "pry"
+gem "reverse_markdown"
